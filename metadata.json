@@ -1,0 +1,6 @@
+{
+  "name": "المشرف التربوي",
+  "description": "تطبيق المشرف التربوي لمتابعة وتقييم وتأطير الأساتذة والمدارس والأفواج - مشروع INDH شيشاوة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
